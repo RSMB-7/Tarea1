@@ -1,0 +1,128 @@
+*
+{ margin: 10px; }
+#caja_principal 
+{
+
+margin: auto;
+margin-top: 30px;
+border-radius: 30px;
+border-style: solid;
+width: 800px;
+height: 900px;
+background-color:rgb(247, 41, 4);
+
+}
+#caja1
+{
+    border-style: solid;
+    margin: auto;
+    margin-top: 120px;
+    border-radius: 60px; 
+    width: 120px;
+    height: 120px;
+    background-color: rgb(252, 252, 252);
+
+}
+#caja2 
+{
+    border-style: solid;
+    margin-left: 200px;
+    margin-top: 40px;
+    width: 400px;
+    height: 60px;  
+    background-color: rgb(255, 255, 255);
+}
+#caja3
+{
+    border-style: solid;
+    border-color: black;
+    margin: auto;
+    margin-top: -130px;
+    border-radius: 105px;
+    width: 210px;
+    height: 210px;
+    background-color: rgb(255, 255, 255);
+}
+#caja4
+{
+    border-style: solid;    
+    border-radius: 160px;
+    margin: auto;
+    margin-top: -20px;
+    width: 320px;
+    height: 320px;
+    background-color: rgb(255, 255, 255);
+}
+#caja5
+{
+    border-style: solid;
+    margin: auto;
+    margin-top:-160px;
+    border-radius: 60px; 
+    width: 30px;
+    height: 30px;
+    background-color: rgb(0, 0, 0);
+}
+#caja6 
+{
+    border-style: solid;
+    margin: auto;
+    margin-top:-120px;
+    border-radius: 60px; 
+    width: 30px;
+    height: 30px;
+    background-color: rgb(0, 0, 0);
+}
+#caja7
+{
+    border-style: solid;
+    margin: auto;
+    margin-top:-190px;
+    border-radius: 60px; 
+    width: 30px;
+    height: 30px;
+    background-color: rgb(0, 0, 0);
+}
+#caja8 
+{
+    border-style: solid;
+    margin: auto;
+    margin-top:-120px;
+    border-radius: 60px; 
+    width: 30px;
+    height: 30px;
+    background-color: rgb(0, 0, 0);
+}
+#caja9
+{
+    border-style: solid;
+    margin: auto;
+    margin-left: 375px;
+    margin-top:-150px;
+    border-radius: 60px; 
+    width: 3px;
+    height: 3px;
+    background-color: rgb(0, 0, 0);
+}
+#caja10 
+{
+    float: right;
+    border-style: solid;
+    margin: auto;
+    margin-top: -9px;
+    margin-right: 380px;
+    border-radius: 60px; 
+    width: 3px;
+    height: 3px;
+    background-color: rgb(0, 0, 0);
+}
+#caja11
+{
+    border-radius: 175px;
+    border-style: solid;
+    margin-left: 400px;
+    margin-top: 10px;
+    width: 45px;
+    height: 8px;  
+    background-color: #F38D3C;
+}
